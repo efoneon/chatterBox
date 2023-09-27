@@ -1,8 +1,7 @@
 function start() {
   document.addEventListener("click", () => {
-    console.log("Test runned!");
+    console.log("test completed");
   });
-  console.log("Test complete!");
 }
 
 start();
