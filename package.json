@@ -1,8 +1,7 @@
 {
   "name": "vanilla-parcel-2",
   "version": "1.0.0",
-  "description": "Instead of using imessage, use ChatterBox
-  to chat with your best friends!",
+  "description": "",
   "scripts": {
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html"
