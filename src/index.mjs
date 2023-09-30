@@ -1,6 +1,6 @@
 function start() {
-  document.addEventListener("click", () => {
-    console.log("test completed");
+  document.getElementById("cts").addEventListener("click", (event) => {
+    event.target.textContent = "Hello world!";
   });
 }
 
