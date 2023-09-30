@@ -15,3 +15,7 @@
   font-weight: bolder;
   margin-top: 250px;
 }
+
+.hide {
+  display: none;
+}
